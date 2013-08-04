@@ -2,3 +2,14 @@ This is the playground.
 
 Use git branch to logically organise different session
 
+amd64 play
+
+Investigation into the effect of Position Independent Code on the amd64 platform
+
+See This website for a quality explanation of why it occurs and the one extra
+assembly instruction used to fix it.
+
+http://www.technovelty.org/c/position-independent-code-and-x86-64-libraries.html
+
+
+
